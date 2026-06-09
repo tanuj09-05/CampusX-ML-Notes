@@ -1,0 +1,848 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 5,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 26,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.user": 1,
+			"com.tldraw.asset.image": 6,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 4,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 4,
+			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.note": 12,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 8,
+			"com.tldraw.shape.highlight": 3,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 4,
+			"com.tldraw.binding.arrow": 1
+		}
+	},
+	"records": [
+		{
+			"x": 0,
+			"y": 0,
+			"lastActivityTimestamp": 0,
+			"meta": {},
+			"id": "pointer:pointer",
+			"typeName": "pointer"
+		},
+		{
+			"name": "",
+			"color": "#F2555A",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:1m2_bFtzEYkvAziKCho6h",
+			"typeName": "user"
+		},
+		{
+			"x": 3668.2000007629395,
+			"y": 411.1999931335449,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:49XHZEqc6cPjwgbSaYRD_",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 224.1999969482422,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Instance based - "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a8BKwhMV",
+			"typeName": "shape"
+		},
+		{
+			"x": 3666.5999908447266,
+			"y": 158.60000610351562,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kC91DjpSiut2avd8H8Y34",
+			"type": "note",
+			"props": {
+				"color": "black",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "eg: humans leaning chemistry"
+								}
+							]
+						}
+					]
+				},
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"labelColor": "black",
+				"growY": 0,
+				"fontSizeAdjustment": 1,
+				"url": "",
+				"scale": 1,
+				"textFirstEditedBy": "1m2_bFtzEYkvAziKCho6h"
+			},
+			"parentId": "page:page",
+			"index": "a4fCU6EG",
+			"typeName": "shape"
+		},
+		{
+			"x": -3933.7845878387598,
+			"y": -218.17780282477975,
+			"z": 0.6106939370095108,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 3900.7999725341797,
+			"y": 477.1999816894531,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:RlhWxctZ9AByJwg02MglQ",
+			"type": "note",
+			"props": {
+				"color": "blue",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "suppose a model gives result that a student will be placed or not based on IQ and CGPA, so when we ask it , it goes to past given data garph and find nearest points if majority of them are placed then returns that \"You will be placed\""
+								}
+							]
+						}
+					]
+				},
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"labelColor": "black",
+				"growY": 196.5,
+				"fontSizeAdjustment": 1,
+				"url": "",
+				"scale": 1,
+				"textFirstEditedBy": "1m2_bFtzEYkvAziKCho6h"
+			},
+			"parentId": "page:page",
+			"index": "aAKh1BsV",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": "shape:dgfSui3dN06o51REPCDvp",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:dgfSui3dN06o51REPCDvp"
+			],
+			"hoveredShapeId": "shape:dgfSui3dN06o51REPCDvp",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 3892.2000122070312,
+			"y": 411.1999931335449,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7p7FF_S-FUaBgTaygtoqJ",
+			"type": "text",
+			"props": {
+				"color": "blue",
+				"size": "m",
+				"w": 1041.800048828125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "model do not train, when input comes we go and check "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "its relevance according to previous data and give result as per previous give data.  "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a9zFsLxG",
+			"typeName": "shape"
+		},
+		{
+			"x": 4623.705634474223,
+			"y": 499.3835418391993,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dgfSui3dN06o51REPCDvp",
+			"type": "note",
+			"props": {
+				"color": "light-green",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "also known as lazy learner"
+								}
+							]
+						}
+					]
+				},
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"labelColor": "black",
+				"growY": 0,
+				"fontSizeAdjustment": 1,
+				"url": "",
+				"scale": 1,
+				"textFirstEditedBy": "1m2_bFtzEYkvAziKCho6h"
+			},
+			"parentId": "page:page",
+			"index": "aGGfsUMG",
+			"typeName": "shape"
+		},
+		{
+			"x": 3893,
+			"y": 61.80000305175781,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:xxPEZ6mtWZBny5dO3UMD4",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2Y7GzyG": {
+						"id": "a2Y7GzyG",
+						"index": "a2Y7GzyG",
+						"x": 88,
+						"y": 69.60000610351562
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a7hoOU3l",
+			"typeName": "shape"
+		},
+		{
+			"x": 3941.800018310547,
+			"y": 124.0000114440918,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:KI98gI9J7qu_enxntSckI",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 159.40000915527344,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Generalizing"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a3f16xEV",
+			"typeName": "shape"
+		},
+		{
+			"x": 3701.8000106811523,
+			"y": 119.20000839233398,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:MniT0cc55KZ9iu62Ajet6",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 145.8000030517578,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Memorizing"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a2uzSPAG",
+			"typeName": "shape"
+		},
+		{
+			"x": 3791.3999938964844,
+			"y": 120.20001220703125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:FItEi-jaH5zt7RN9TfOi9",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a24OY7wV": {
+						"id": "a24OY7wV",
+						"index": "a24OY7wV",
+						"x": 88.80003356933594,
+						"y": -52.80000305175781
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a6iFOBOV",
+			"typeName": "shape"
+		},
+		{
+			"x": 4369.8959580975525,
+			"y": 490.2136606510064,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:4f3QWBYhTTfp2kL42tDOS",
+			"type": "note",
+			"props": {
+				"color": "light-green",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "training data must be present always with model"
+								}
+							]
+						}
+					]
+				},
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"labelColor": "black",
+				"growY": 0,
+				"fontSizeAdjustment": 1,
+				"url": "",
+				"scale": 1,
+				"textFirstEditedBy": "1m2_bFtzEYkvAziKCho6h"
+			},
+			"parentId": "page:page",
+			"index": "aEaQUg3l",
+			"typeName": "shape"
+		},
+		{
+			"x": 3926.6000061035156,
+			"y": 157,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:IBhIuIqWvGwq0NWX8pl8t",
+			"type": "note",
+			"props": {
+				"color": "black",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "eg: human understanding physics"
+								}
+							]
+						}
+					]
+				},
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"labelColor": "black",
+				"growY": 0,
+				"fontSizeAdjustment": 1,
+				"url": "",
+				"scale": 1,
+				"textFirstEditedBy": "1m2_bFtzEYkvAziKCho6h"
+			},
+			"parentId": "page:page",
+			"index": "a5NF2AEV",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:size": "m",
+				"tldraw:color": "light-green"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 780,
+				"h": 702.4000244140625
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.25,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"cameraState": "idle",
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"x": 4141.20002746582,
+			"y": 483.3999938964844,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:amTl0l5C2h_KFxgrd2m_a",
+			"type": "note",
+			"props": {
+				"color": "blue",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "it did nothing until someone asked something"
+								}
+							]
+						}
+					]
+				},
+				"size": "s",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"labelColor": "black",
+				"growY": 0,
+				"fontSizeAdjustment": 1,
+				"url": "",
+				"scale": 1,
+				"textFirstEditedBy": "1m2_bFtzEYkvAziKCho6h"
+			},
+			"parentId": "page:page",
+			"index": "aBqaF2jV",
+			"typeName": "shape"
+		},
+		{
+			"x": 3869.2000274658203,
+			"y": 912.8000297546387,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ThPaLRPUK4QnP90nHnRp5",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 1018.6000366210938,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "model finds mathematical relationship between inputa and output,"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "so even if u remove the training data , model will be able to give output on input. "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aDzKcbTG",
+			"typeName": "shape"
+		},
+		{
+			"x": 3969.368082765872,
+			"y": 1002.4177416175762,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:KX7aQ73jW5A_kHCX8zHDv",
+			"type": "note",
+			"props": {
+				"color": "light-green",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "training data can be removed after  training"
+								}
+							]
+						}
+					]
+				},
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"labelColor": "black",
+				"growY": 0,
+				"fontSizeAdjustment": 1,
+				"url": "",
+				"scale": 1,
+				"textFirstEditedBy": "1m2_bFtzEYkvAziKCho6h"
+			},
+			"parentId": "page:page",
+			"index": "aFSV0JpV",
+			"typeName": "shape"
+		},
+		{
+			"x": 3683.100030899048,
+			"y": 914.5999870300293,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:jEpNL_sa-VeNbn2-5Lekf",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 188.1999969482422,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Model Based - "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aCzk8d3l",
+			"typeName": "shape"
+		},
+		{
+			"x": 3836.199996948242,
+			"y": 29.60000228881836,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qVzvzFhAWbIGsckWb4osy",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 110.5999984741211,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Learning"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1bohK6V",
+			"typeName": "shape"
+		}
+	]
+}

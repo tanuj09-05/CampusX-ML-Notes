@@ -1,0 +1,796 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 5,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 26,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.user": 1,
+			"com.tldraw.asset.image": 6,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 4,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 4,
+			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.note": 12,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 8,
+			"com.tldraw.shape.highlight": 3,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 4,
+			"com.tldraw.binding.arrow": 1
+		}
+	},
+	"records": [
+		{
+			"x": 0,
+			"y": 0,
+			"lastActivityTimestamp": 0,
+			"meta": {},
+			"id": "pointer:pointer",
+			"typeName": "pointer"
+		},
+		{
+			"name": "",
+			"color": "#F2555A",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:1m2_bFtzEYkvAziKCho6h",
+			"typeName": "user"
+		},
+		{
+			"x": 537.2370037949959,
+			"y": 230.2751854963522,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PF5LhAKHYQQ2MeAFc8PVo",
+			"type": "note",
+			"props": {
+				"color": "green",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "shape = (rows,columns)"
+								}
+							]
+						}
+					]
+				},
+				"size": "m",
+				"font": "draw",
+				"align": "start",
+				"verticalAlign": "middle",
+				"labelColor": "black",
+				"growY": 0,
+				"fontSizeAdjustment": 0.9545454545454546,
+				"url": "",
+				"scale": 1,
+				"textFirstEditedBy": "1m2_bFtzEYkvAziKCho6h"
+			},
+			"parentId": "page:page",
+			"index": "aCsu8aFV",
+			"typeName": "shape"
+		},
+		{
+			"x": 96.80000305175781,
+			"y": 133.40000534057617,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:KsZPNXZ7493xZzmD7k3bE",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 217,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1D Tensor/ Vector"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a7t5mKuV",
+			"typeName": "shape"
+		},
+		{
+			"x": 107.47312089691202,
+			"y": -37.10658311492619,
+			"z": 0.8701944056804645,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 367.20001220703125,
+			"y": 176.60004806518555,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Yg5PMX4h_PriB__GfAwtn",
+			"type": "text",
+			"props": {
+				"color": "green",
+				"size": "m",
+				"w": 353.8000183105469,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "eg: - [[1,2,3],[4,5,6],[6,7,8]]"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aAL7xkXV",
+			"typeName": "shape"
+		},
+		{
+			"x": 39.79666331937989,
+			"y": 228.87074472966265,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:89LgZrYIdldEiV1I1Wv48",
+			"type": "note",
+			"props": {
+				"color": "green",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "rank = no. of dimentions of tensor"
+								}
+							]
+						}
+					]
+				},
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"labelColor": "black",
+				"growY": 0,
+				"fontSizeAdjustment": 1,
+				"url": "",
+				"scale": 1,
+				"textFirstEditedBy": "1m2_bFtzEYkvAziKCho6h"
+			},
+			"parentId": "page:page",
+			"index": "a6XVWB8V",
+			"typeName": "shape"
+		},
+		{
+			"x": 96.80000305175781,
+			"y": 133.40000534057617,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:4LOsleDflF0kJzAL9wBK0",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 217,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1D Tensor/ Vector"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a8Hmkzz8",
+			"typeName": "shape"
+		},
+		{
+			"x": 344,
+			"y": 91.00000381469727,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:di_KXCd1C4Oj0jRXEXE17",
+			"type": "text",
+			"props": {
+				"color": "green",
+				"size": "m",
+				"w": 115.4000015258789,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "eg:- [ 7 ]"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a3BAuzBl",
+			"typeName": "shape"
+		},
+		{
+			"x": 80.99051312491004,
+			"y": 540.3307444121303,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:8bwj_cZDGLqtOSjaVgHgB",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 416.20001220703125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "4D Tensor - eg :- multiple images"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aEjds1hV",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": "shape:ms6LT8VfBRGmfsFjSvoPn",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:ms6LT8VfBRGmfsFjSvoPn"
+			],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 38.400001525878906,
+			"y": 55.79999923706055,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:XzgSv-2QAJhg1ZVlH2XU9",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 113,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Tensor - "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "        "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1hF0gyV",
+			"typeName": "shape"
+		},
+		{
+			"x": 96.80000305175781,
+			"y": 133.40000534057617,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:HBKJW4_VLHZ4E-LzH04C9",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 217,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1D Tensor/ Vector"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a4MjTvtV",
+			"typeName": "shape"
+		},
+		{
+			"x": 292.69385578509787,
+			"y": 230.27518549635218,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qgABb_fY_trqXRyIVc_MJ",
+			"type": "note",
+			"props": {
+				"color": "green",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Axes = no. of dimentions of tensor"
+								}
+							]
+						}
+					]
+				},
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"labelColor": "black",
+				"growY": 0,
+				"fontSizeAdjustment": 1,
+				"url": "",
+				"scale": 1,
+				"textFirstEditedBy": "1m2_bFtzEYkvAziKCho6h"
+			},
+			"parentId": "page:page",
+			"index": "aBhTUrPl",
+			"typeName": "shape"
+		},
+		{
+			"x": 345.6000061035156,
+			"y": 134.20000839233398,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:0W7a5GOqpqefSrzWpOl2t",
+			"type": "text",
+			"props": {
+				"color": "green",
+				"size": "m",
+				"w": 173.8000030517578,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "eg:- [2,5,7,2,1]"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a5hYN51V",
+			"typeName": "shape"
+		},
+		{
+			"x": 85.58718712544227,
+			"y": 481.49333824722146,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:G55slN70aUf7on_xzGIdz",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 749.7999877929688,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3D tensor - collection of multiple 2D tensor eg - time series"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aDccYpwV",
+			"typeName": "shape"
+		},
+		{
+			"x": 97.59999084472656,
+			"y": 93.39999008178711,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PB9_cPRv1mlVEYfmEpEDc",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 229,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "0D Tensor /scalar "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a2UhO2DG",
+			"typeName": "shape"
+		},
+		{
+			"x": 95.60664742129876,
+			"y": 176.60001754760742,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ZVaF-GUTQfEjpb0nqbvfW",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 257.8000183105469,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2D Tensor/Matrices  "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a9rzdfBl",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:color": "light-green",
+				"tldraw:dash": "dashed",
+				"tldraw:font": "draw",
+				"tldraw:horizontalAlign": "start"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 719.2000122070312,
+				"h": 702.4000244140625
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.25,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"cameraState": "idle",
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"x": 79.15185404564896,
+			"y": 588.1361610316336,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ms6LT8VfBRGmfsFjSvoPn",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 565.7999877929688,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "5D Tensors - eg:- videos(collection of images)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aF4p4V9V",
+			"typeName": "shape"
+		}
+	]
+}

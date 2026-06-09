@@ -1,0 +1,401 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 5,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 26,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.user": 1,
+			"com.tldraw.asset.image": 6,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 4,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 4,
+			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.note": 12,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 8,
+			"com.tldraw.shape.highlight": 3,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 4,
+			"com.tldraw.binding.arrow": 1
+		}
+	},
+	"records": [
+		{
+			"x": 0,
+			"y": 0,
+			"lastActivityTimestamp": 0,
+			"meta": {},
+			"id": "pointer:pointer",
+			"typeName": "pointer"
+		},
+		{
+			"name": "",
+			"color": "#F2555A",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:1m2_bFtzEYkvAziKCho6h",
+			"typeName": "user"
+		},
+		{
+			"x": -210,
+			"y": 15,
+			"z": 1,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 75.20000457763672,
+			"y": 128.60000228881836,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:KY_OfOvCuaJwDgh-i7Zj2",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 929,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Frame the problem"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Gathering the data"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Data Preprocessing - cleaning the data "
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Exploratory Data Analysis - extract relationship in data"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Feature Engineering and Selection (Feature means input columns)"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Model Training, Evaluation and Selection"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Model Deployment"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Testing"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Optimise - backup, rollback , load balancing, re-training frequency etc."
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a2fPUn7G",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": "shape:KY_OfOvCuaJwDgh-i7Zj2",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:KY_OfOvCuaJwDgh-i7Zj2"
+			],
+			"hoveredShapeId": "shape:KY_OfOvCuaJwDgh-i7Zj2",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 40.79999923706055,
+			"y": 53.39999771118164,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:T12G7pUH5ivZ8eWjUWydu",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 600.2000122070312,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Machine Learning development Lifecycle(MLDLC)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1bikTQV",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:color": "light-green"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 839.2000122070312,
+				"h": 702.4000244140625
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.25,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"cameraState": "idle",
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		}
+	]
+}

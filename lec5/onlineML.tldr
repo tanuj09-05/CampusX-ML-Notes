@@ -1,0 +1,622 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 5,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 26,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.user": 1,
+			"com.tldraw.asset.image": 6,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 4,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 4,
+			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.note": 12,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 8,
+			"com.tldraw.shape.highlight": 3,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 4,
+			"com.tldraw.binding.arrow": 1
+		}
+	},
+	"records": [
+		{
+			"x": 0,
+			"y": 0,
+			"lastActivityTimestamp": 0,
+			"meta": {},
+			"id": "pointer:pointer",
+			"typeName": "pointer"
+		},
+		{
+			"name": "",
+			"color": "#F2555A",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:1m2_bFtzEYkvAziKCho6h",
+			"typeName": "user"
+		},
+		{
+			"x": 351.20001220703125,
+			"y": 76.65000247955322,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:OjGAZlWktAu98kTbLVL_f",
+			"type": "text",
+			"props": {
+				"color": "grey",
+				"size": "s",
+				"w": 396.20001220703125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "model runs and trains itself dynamically "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "on server , eg. youtube, chatbots etc."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a2l2l0AV",
+			"typeName": "shape"
+		},
+		{
+			"x": 142.1999969482422,
+			"y": 182.45000553131104,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PSzHfFbYPXLGNBwNIm_91",
+			"type": "text",
+			"props": {
+				"color": "grey",
+				"size": "s",
+				"w": 525.7999877929688,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Adv - small chunks of data so easy to train on server "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a3nCLLnV",
+			"typeName": "shape"
+		},
+		{
+			"x": 6.200000762939453,
+			"y": 289.6500177383423,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Iiw0nyEVisIP2mkrqQUBS",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "s",
+				"w": 863.4000244140625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "When to use which?? "
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "where there is concept drift( drastic change in data input ) - we use online learning."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "online learning is cost effective is comparoson to batch."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Faster solution"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a4GLs5YV",
+			"typeName": "shape"
+		},
+		{
+			"x": 385.92880917921406,
+			"y": 276.6580508809282,
+			"z": 0.4499876835854949,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": -1.9182921026352915,
+			"y": 871.6182642961069,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Cd9skYMVGwbDftIz8CPnJ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 895.4000244140625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "DisAdv - "
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Tricky to use"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Risky becoz may be anomaly data given as input from some hacker"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a8tzjLEG",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": "shape:Cd9skYMVGwbDftIz8CPnJ",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:Cd9skYMVGwbDftIz8CPnJ"
+			],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 3.20001220703125,
+			"y": 516.8499994277954,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:j9wf0q74o2u4F5nstzy_E",
+			"type": "text",
+			"props": {
+				"color": "light-red",
+				"size": "s",
+				"w": 1228.2000732421875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Learning rate - the rate at which model trains , if it is very frequent then model might forget the old and keeps evolving new  "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a6aS3LpV",
+			"typeName": "shape"
+		},
+		{
+			"x": 2.4000015258789062,
+			"y": 458.45000553131104,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:4oqs0UNb0tVhqMwhlkOxn",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "s",
+				"w": 625.7999877929688,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "libraries like river ans sklearn could be used for online learning. "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a5xiBqQV",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:color": "black",
+				"tldraw:size": "m"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 780,
+				"h": 702.4000244140625
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.25,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"cameraState": "idle",
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"x": 13.74896701695711,
+			"y": 646.9224267306628,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:LNbn_Do1ucG6xrqRkrO8T",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1453,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Out of core learning  - when data is too large to used in once to train in once so small chunks of data "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tis given to model in one time, though it is trained offline but uses concept of online learning .  "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a74SYh4V",
+			"typeName": "shape"
+		},
+		{
+			"x": 26.399999618530273,
+			"y": 70.20000076293945,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:DWJJMGBMs5ldJggsxAmzI",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 325,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Online machine lerning  - "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1qfNN6V",
+			"typeName": "shape"
+		}
+	]
+}
