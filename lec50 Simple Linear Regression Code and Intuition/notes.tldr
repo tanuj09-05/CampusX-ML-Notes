@@ -20,13 +20,13 @@
 			"com.tldraw.shape.group": 0,
 			"com.tldraw.shape.text": 4,
 			"com.tldraw.shape.bookmark": 2,
-			"com.tldraw.shape.draw": 4,
+			"com.tldraw.shape.draw": 5,
 			"com.tldraw.shape.geo": 11,
-			"com.tldraw.shape.note": 12,
+			"com.tldraw.shape.note": 13,
 			"com.tldraw.shape.line": 5,
 			"com.tldraw.shape.frame": 1,
 			"com.tldraw.shape.arrow": 8,
-			"com.tldraw.shape.highlight": 3,
+			"com.tldraw.shape.highlight": 4,
 			"com.tldraw.shape.embed": 4,
 			"com.tldraw.shape.image": 5,
 			"com.tldraw.shape.video": 4,
@@ -304,9 +304,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -80.03529338937874,
-			"y": 152.44821040210763,
-			"z": 0.5043390262030494,
+			"x": -42.02990151031736,
+			"y": -236.83884988526603,
+			"z": 0.7018304610492999,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -822,12 +822,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:igocYjbLuH5uWhb-wb5-d",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:QRqkUnQkiUs9qP4MsZHws"
+				"shape:igocYjbLuH5uWhb-wb5-d"
 			],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:igocYjbLuH5uWhb-wb5-d",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -874,8 +874,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 131.58791701984174,
-			"y": 704.9124311803316,
+			"x": 135.44130992026274,
+			"y": 707.0490931159106,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1120,7 +1120,7 @@
 												},
 												{
 													"type": "text",
-													"text": " = Intercept"
+													"text": " = Intercept (offset)"
 												}
 											]
 										}
@@ -1731,15 +1731,11 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:size": "m",
-				"tldraw:color": "black",
-				"tldraw:geo": "rectangle"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "move",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -1749,7 +1745,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 670,
+				"w": 625,
 				"h": 737
 			},
 			"insets": [
