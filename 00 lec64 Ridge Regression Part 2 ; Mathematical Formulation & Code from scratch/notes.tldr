@@ -43,17 +43,19 @@
 			"typeName": "pointer"
 		},
 		{
-			"x": 222.75,
-			"y": 121.75,
-			"z": 1,
+			"x": 542.0912083956814,
+			"y": 573.1902237629221,
+			"z": 0.4807347607256207,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:KEZ1YZ4TLrOa_A79TE-RI",
 			"croppingShapeId": null,
-			"selectedShapeIds": [],
+			"selectedShapeIds": [
+				"shape:KEZ1YZ4TLrOa_A79TE-RI"
+			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -64,58 +66,18 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 43.5,
-			"y": 114.5,
+			"x": -516.0893441220588,
+			"y": -460.400380398195,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
 			"meta": {},
-			"id": "shape:OFKLXJdLEWpbB3Sp1SNgi",
-			"type": "bookmark",
-			"props": {
-				"url": "https://chatgpt.com/s/t_6a63cd9b988c81919b4a21fa63eb5511",
-				"w": 300,
-				"h": 320,
-				"assetId": "asset:596284118"
-			},
-			"parentId": "page:page",
-			"index": "a2Vzs",
-			"typeName": "shape"
-		},
-		{
-			"id": "asset:596284118",
-			"typeName": "asset",
-			"type": "bookmark",
-			"props": {
-				"src": "https://chatgpt.com/s/t_6a63cd9b988c81919b4a21fa63eb5511",
-				"description": "Here's a chat someone thought you'd want to see.",
-				"image": "https://ogimg.chatgpt.com/?postId=t_6a63cd9b988c81919b4a21fa63eb5511",
-				"favicon": "https://chatgpt.com/cdn/assets/favicon-180x180-od45eci6.webp",
-				"title": "Check out this chat"
-			},
-			"meta": {}
-		},
-		{
-			"name": "",
-			"color": "#F04F88",
-			"imageUrl": "",
-			"meta": {},
-			"id": "user:XPbz6My6AJsc_gdx-_Q9T",
-			"typeName": "user"
-		},
-		{
-			"x": 39,
-			"y": 60,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
-			"meta": {},
-			"id": "shape:hDB2pctJzXlni6LdsW7X-",
+			"id": "shape:KEZ1YZ4TLrOa_A79TE-RI",
 			"type": "text",
 			"props": {
 				"color": "black",
-				"size": "m",
-				"w": 168.6953125,
+				"size": "l",
+				"w": 325.796875,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -134,7 +96,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "What is API ?"
+									"text": "Ridge Regression"
 								}
 							]
 						}
@@ -142,8 +104,16 @@
 				}
 			},
 			"parentId": "page:page",
-			"index": "a13Mb",
+			"index": "a1BuQ",
 			"typeName": "shape"
+		},
+		{
+			"name": "",
+			"color": "#F04F88",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:XPbz6My6AJsc_gdx-_Q9T",
+			"typeName": "user"
 		},
 		{
 			"meta": {},
@@ -162,7 +132,9 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {},
+			"stylesForNextShape": {
+				"tldraw:size": "l"
+			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -176,8 +148,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 828,
-				"h": 738
+				"w": 670,
+				"h": 737
 			},
 			"insets": [
 				false,

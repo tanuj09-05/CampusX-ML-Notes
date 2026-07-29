@@ -262,9 +262,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 36.23834498043995,
-			"y": -3149.997870994837,
-			"z": 0.44250835165610747,
+			"x": 42.73330200249205,
+			"y": -1045.6315791791246,
+			"z": 0.5482608817245671,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -657,6 +657,14 @@
 			"parentId": "page:page",
 			"index": "aPLhMQ8V",
 			"typeName": "shape"
+		},
+		{
+			"name": "",
+			"color": "#F04F88",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:XPbz6My6AJsc_gdx-_Q9T",
+			"typeName": "user"
 		},
 		{
 			"x": 26,
@@ -1295,7 +1303,31 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "IQCGPAPlacement1108.5Yes956.8No"
+									"text": "IQ    CGPA  Placement"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "110     8.5         Yes"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "95      6.8         No"
 								}
 							]
 						},
@@ -2680,8 +2712,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 698,
-				"h": 737
+				"w": 693,
+				"h": 738
 			},
 			"insets": [
 				false,

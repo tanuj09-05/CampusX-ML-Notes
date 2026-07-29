@@ -51,9 +51,9 @@
 			"typeName": "user"
 		},
 		{
-			"x": 63.67188240798715,
-			"y": -1080.0287251536165,
-			"z": 0.42485334874534536,
+			"x": 137.004754387182,
+			"y": -1447.17336957902,
+			"z": 0.4176418494963458,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -72,7 +72,7 @@
 			"selectedShapeIds": [
 				"shape:6C-HxoVh-JjJmCKC1QLux"
 			],
-			"hoveredShapeId": "shape:6C-HxoVh-JjJmCKC1QLux",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -80,6 +80,14 @@
 			"id": "instance_page_state:page:page",
 			"pageId": "page:page",
 			"typeName": "instance_page_state"
+		},
+		{
+			"name": "",
+			"color": "#F04F88",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:XPbz6My6AJsc_gdx-_Q9T",
+			"typeName": "user"
 		},
 		{
 			"meta": {},
@@ -107,7 +115,7 @@
 			"props": {
 				"color": "violet",
 				"size": "m",
-				"w": 2594.0078125,
+				"w": 1163.7578125,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -283,7 +291,177 @@
 											"type": "code"
 										}
 									],
-									"text": "Initial Data       ↓ Train Model       ↓ Deploy on Server       ↓ New Data Aata Hai       ↓ Model Update Hota Hai       ↓ Prediction Better Hoti Rehti Hai"
+									"text": "Initial Data       "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "     ↓ "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Train Model       "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "     ↓ "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Deploy on Server       "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "     ↓ "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "New Data Aata Hai       "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "     ↓ "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Model Update Hota Hai       "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "     ↓  "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "Prediction Better Hoti Rehti Hai"
 								}
 							]
 						},
@@ -1121,37 +1299,6 @@
 							"attrs": {
 								"dir": "auto"
 							}
-						},
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							}
-						},
-						{
-							"type": "heading",
-							"attrs": {
-								"dir": "auto",
-								"level": 1
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "10. Batch Learning vs Online Learning"
-								}
-							]
-						},
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "Batch LearningOnline LearningEk baar trainingContinuous trainingRetraining requiredAuto update hota haiStatic modelDynamic modelSimple implementationComplex implementationSlow updatesFast updates"
-								}
-							]
 						}
 					]
 				}
@@ -1163,9 +1310,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:color": "violet"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -1179,8 +1324,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 698,
-				"h": 737
+				"w": 693,
+				"h": 738
 			},
 			"insets": [
 				false,
