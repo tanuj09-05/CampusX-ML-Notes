@@ -82,9 +82,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 143.99744545167403,
-			"y": 345.79594206010427,
-			"z": 0.3494866337440223,
+			"x": 620.7937526113748,
+			"y": -439.88492969103345,
+			"z": 0.4081262677006397,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -98,10 +98,12 @@
 			"typeName": "user"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:NTMbrXZ2eCTjWiXb1Kxig",
 			"croppingShapeId": null,
-			"selectedShapeIds": [],
-			"hoveredShapeId": null,
+			"selectedShapeIds": [
+				"shape:NTMbrXZ2eCTjWiXb1Kxig"
+			],
+			"hoveredShapeId": "shape:NTMbrXZ2eCTjWiXb1Kxig",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -109,6 +111,14 @@
 			"id": "instance_page_state:page:page",
 			"pageId": "page:page",
 			"typeName": "instance_page_state"
+		},
+		{
+			"name": "",
+			"color": "#F04F88",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:XPbz6My6AJsc_gdx-_Q9T",
+			"typeName": "user"
 		},
 		{
 			"meta": {},
@@ -141,8 +151,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 698,
-				"h": 737
+				"w": 693,
+				"h": 738
 			},
 			"insets": [
 				false,
@@ -171,8 +181,8 @@
 			"typeName": "instance"
 		},
 		{
-			"x": 59.593001061649296,
-			"y": 404.82311596530786,
+			"x": -552.0545494240432,
+			"y": 198.65899208563457,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -182,11 +192,11 @@
 			"props": {
 				"color": "black",
 				"size": "m",
-				"w": 3212.46875,
+				"w": 3597.050710642714,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
-				"scale": 1,
+				"scale": 1.1197153935404707,
 				"richText": {
 					"type": "doc",
 					"attrs": {
@@ -637,7 +647,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "Business aur data time ke saath change hote rehte hain."
+									"text": "Business aur data , time ke saath change hote rehte hain."
 								}
 							]
 						},

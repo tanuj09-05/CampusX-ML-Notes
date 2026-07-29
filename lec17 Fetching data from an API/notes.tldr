@@ -43,8 +43,8 @@
 			"typeName": "pointer"
 		},
 		{
-			"x": 0,
-			"y": 0,
+			"x": 222.75,
+			"y": 121.75,
 			"z": 1,
 			"meta": {},
 			"id": "camera:page:page",
@@ -53,10 +53,8 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:hDB2pctJzXlni6LdsW7X-"
-			],
-			"hoveredShapeId": "shape:hDB2pctJzXlni6LdsW7X-",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -178,7 +176,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 671,
+				"w": 828,
 				"h": 738
 			},
 			"insets": [
