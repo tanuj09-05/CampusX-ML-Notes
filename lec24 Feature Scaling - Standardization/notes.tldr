@@ -21,7 +21,7 @@
 			"com.tldraw.shape.text": 4,
 			"com.tldraw.shape.bookmark": 2,
 			"com.tldraw.shape.draw": 5,
-			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.geo": 12,
 			"com.tldraw.shape.note": 13,
 			"com.tldraw.shape.line": 5,
 			"com.tldraw.shape.frame": 1,
@@ -67,9 +67,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 4620.5810166538395,
-			"y": 3599.5507792185194,
-			"z": 0.29589295539073435,
+			"x": 4530.6618041354905,
+			"y": 2885.9964736458096,
+			"z": 0.6938326876045358,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -212,7 +212,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:MZZC_7n_FYrSXcLhGRupl",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -690,8 +690,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 385,
-				"h": 737
+				"w": 778,
+				"h": 738
 			},
 			"insets": [
 				false,
@@ -750,7 +750,9 @@
 							"type": "paragraph"
 						}
 					]
-				}
+				},
+				"flipX": false,
+				"flipY": false
 			},
 			"parentId": "page:page",
 			"index": "a84hlsrV",
