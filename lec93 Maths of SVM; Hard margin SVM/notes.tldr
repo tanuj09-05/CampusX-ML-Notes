@@ -127,7 +127,7 @@
 			"props": {
 				"color": "red",
 				"size": "s",
-				"w": 699.8359375,
+				"w": 601.484375,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -146,7 +146,19 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "In short we have to find equation of an Hyperplane whose d is maximum. "
+									"text": "In short we have to find equation of an Hyperplane whose d is "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "maximum. "
 								}
 							]
 						}
