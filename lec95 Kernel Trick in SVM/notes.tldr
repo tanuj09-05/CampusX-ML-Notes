@@ -35,35 +35,18 @@
 	},
 	"records": [
 		{
-			"x": 0,
-			"y": 0,
-			"lastActivityTimestamp": 0,
+			"gridSize": 10,
+			"name": "",
 			"meta": {},
-			"id": "pointer:pointer",
-			"typeName": "pointer"
+			"id": "document:document",
+			"typeName": "document"
 		},
 		{
-			"x": 0,
-			"y": 287,
-			"z": 1,
 			"meta": {},
-			"id": "camera:page:page",
-			"typeName": "camera"
-		},
-		{
-			"editingShapeId": "shape:JwCf7xmMhjnx_sHEmM6rz",
-			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:JwCf7xmMhjnx_sHEmM6rz"
-			],
-			"hoveredShapeId": "shape:JwCf7xmMhjnx_sHEmM6rz",
-			"erasingShapeIds": [],
-			"hintingShapeIds": [],
-			"focusedGroupId": null,
-			"meta": {},
-			"id": "instance_page_state:page:page",
-			"pageId": "page:page",
-			"typeName": "instance_page_state"
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
 		},
 		{
 			"name": "",
@@ -74,18 +57,18 @@
 			"typeName": "user"
 		},
 		{
-			"x": 7,
-			"y": 42.5,
+			"x": -168,
+			"y": -256.5,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
 			"meta": {},
-			"id": "shape:R2mQ3sAyCpICTTrJvWw5g",
+			"id": "shape:VCQAGgTSXa28nksYr4o9Q",
 			"type": "text",
 			"props": {
 				"color": "black",
 				"size": "l",
-				"w": 386.9921875,
+				"w": 314.6328125,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -104,7 +87,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "Mathematics of SVM"
+									"text": "Kernel Trick SVM"
 								}
 							]
 						}
@@ -112,84 +95,21 @@
 				}
 			},
 			"parentId": "page:page",
-			"index": "a1IYn",
+			"index": "a1ZKv",
 			"typeName": "shape"
 		},
 		{
-			"x": 9,
-			"y": 99,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
+			"x": 0,
+			"y": 0,
+			"lastActivityTimestamp": 0,
 			"meta": {},
-			"id": "shape:JwCf7xmMhjnx_sHEmM6rz",
-			"type": "text",
-			"props": {
-				"color": "red",
-				"size": "s",
-				"w": 601.484375,
-				"font": "draw",
-				"textAlign": "start",
-				"autoSize": true,
-				"scale": 1,
-				"richText": {
-					"type": "doc",
-					"attrs": {
-						"dir": "auto"
-					},
-					"content": [
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "In short we have to find equation of an Hyperplane whose d is "
-								}
-							]
-						},
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "maximum. "
-								}
-							]
-						}
-					]
-				}
-			},
-			"parentId": "page:page",
-			"index": "a2ZQb",
-			"typeName": "shape"
-		},
-		{
-			"meta": {},
-			"id": "page:page",
-			"name": "Page 1",
-			"index": "a1",
-			"typeName": "page"
-		},
-		{
-			"gridSize": 10,
-			"name": "",
-			"meta": {},
-			"id": "document:document",
-			"typeName": "document"
+			"id": "pointer:pointer",
+			"typeName": "pointer"
 		},
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:size": "s",
-				"tldraw:color": "red"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -231,6 +151,29 @@
 			"id": "instance:instance",
 			"currentPageId": "page:page",
 			"typeName": "instance"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:VCQAGgTSXa28nksYr4o9Q"
+			],
+			"hoveredShapeId": "shape:VCQAGgTSXa28nksYr4o9Q",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 175.18359375,
+			"y": 302,
+			"z": 1,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
 		}
 	]
 }
