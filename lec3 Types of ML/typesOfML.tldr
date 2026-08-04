@@ -1,0 +1,2930 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 5,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 26,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.user": 1,
+			"com.tldraw.asset.image": 6,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 4,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 5,
+			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.note": 13,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 8,
+			"com.tldraw.shape.highlight": 4,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 4,
+			"com.tldraw.binding.arrow": 1
+		}
+	},
+	"records": [
+		{
+			"x": 371.20001220703125,
+			"y": 214.19997787475586,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:sw9-FyetOFpKzx_oEw7_m",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 192.1999969482422,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "SemiSupervised"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a4t9e9LV",
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"lastActivityTimestamp": 0,
+			"meta": {},
+			"id": "pointer:pointer",
+			"typeName": "pointer"
+		},
+		{
+			"name": "",
+			"color": "#F2555A",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:1m2_bFtzEYkvAziKCho6h",
+			"typeName": "user"
+		},
+		{
+			"x": 586.4000244140625,
+			"y": 213.40000534057617,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kAuIOTCpZXY7R3clQta41",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 185,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Reinforcement"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a5ptOWJV",
+			"typeName": "shape"
+		},
+		{
+			"x": 174.40000915527344,
+			"y": 368,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Ss3PcW0_602xHYoK1k8D-",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ZjoAAAAAZkIAAAAAZkIAAAAAZj5mugAAZjoAAAAAZjoAAAAAZjoAAAAAAABmugAAZj4AAAAAZjoAAAAAZjoAAAAAZjoAAAAAZjoAAAAAZjoAAAAAZjoAAAAAZjoAAAAAZjoAAAAAZjoAAAAAZjoAAAAAZjoAAAAAZjpmugAA"
+					}
+				],
+				"color": "light-red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "s",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aKfo5QCV",
+			"typeName": "shape"
+		},
+		{
+			"x": 300,
+			"y": 112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:TcNIRwiLfrwVQlWWmjwSL",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2qLqzuG": {
+						"id": "a2qLqzuG",
+						"index": "a2qLqzuG",
+						"x": 191.20001220703125,
+						"y": 116.80003356933594
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aOdsR5qV",
+			"typeName": "shape"
+		},
+		{
+			"x": 175.1999969482422,
+			"y": 344,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:uAg4RCKro_3U51x4l0kCS",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ZjpmOgAAzUAAAAAAZkIAAAAAZj5mOgAAZjoAAAAAZjoAAAAAZjoAAAAAzUAAAAAAZjoAAAAAzUAAAAAAZj4AAAAAZj5mOgAAzUBmOgAAzUAAAAAAZjpmOgAAZjoAAAAAZj5mOgAAZjoAAAAAZjoAAAAA"
+					}
+				],
+				"color": "light-red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "s",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aJao6izG",
+			"typeName": "shape"
+		},
+		{
+			"x": 833.2454406312683,
+			"y": 955.3560373176056,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:2subIzV9kiDLe0BAGSxPs",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/TUAAAAAAdkIAAAAAcUIAAAAATUAAAAAAdkIAAAAATUAAAAAATUAAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAAABSvAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAATUAAAAAASDwAAAAATUAAAAAAUjwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAATUAAAAAAUjwAAAAASDwAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAAAABIvAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDxSvAAAUjwAAAAASDwAAAAATUAAAAAAUjwAAAAAUjwAAAAAAABIvAAASDwAAAAAUjwAAAAASDwAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAAAABIPAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDxSPAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUBIPAAASDwAAAAAUjwAAAAAUjwAAAAA"
+					}
+				],
+				"color": "light-green",
+				"fill": "none",
+				"dash": "draw",
+				"size": "s",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aWH88Y6V",
+			"typeName": "shape"
+		},
+		{
+			"x": 36.23834498043995,
+			"y": -3149.997870994837,
+			"z": 0.44250835165610747,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"name": "",
+			"color": "#55B467",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:hFc_JSHGMnX-zAUVD3R3g",
+			"typeName": "user"
+		},
+		{
+			"x": 178.40000915527344,
+			"y": 295.20001220703125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Kxr5TKnMiRgFdNB68wMII",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ZjoAAAAAZjoAAAAAZjpmOgAAZjoAAAAAzUBmOgAAZj5mOgAAZjoAAAAAZj4AAAAAZjoAAAAAZj4AAAAAZjoAAAAAZjoAAAAAZjoAAAAAZjoAAAAAZjoAAAAA"
+					}
+				],
+				"color": "light-red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "s",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aHBI4YjV",
+			"typeName": "shape"
+		},
+		{
+			"x": 38.6342123060522,
+			"y": 928.1525342434213,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:K29m52s9JvFzm4IYkxbrT",
+			"type": "text",
+			"props": {
+				"color": "grey",
+				"size": "s",
+				"w": 943.4000244140625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Reinforcement Learning - Not input data given still machine learns on itself using reward method"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aVIQrZwV",
+			"typeName": "shape"
+		},
+		{
+			"x": 23.58069954967099,
+			"y": 829.229347871758,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ErIfOw9b2GGI_8iKYp78H",
+			"type": "text",
+			"props": {
+				"color": "grey",
+				"size": "s",
+				"w": 1780.2000732421875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Semisuperwised - taking some of man power and rest is done my ML(eg. Google photos segregating each unique face and we just have to put label on that face like mother , father etc)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aUETdvLV",
+			"typeName": "shape"
+		},
+		{
+			"x": 205.60000610351562,
+			"y": 544.3999938964844,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:yfkAjlqc8juXVnpSYHhgx",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/"
+					}
+				],
+				"color": "grey",
+				"fill": "none",
+				"dash": "draw",
+				"size": "s",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aRcQu9GV",
+			"typeName": "shape"
+		},
+		{
+			"x": 526.4000244140625,
+			"y": 432.8000183105469,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:eh0q8TjQm4hOeNsZYTwyF",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/"
+					}
+				],
+				"color": "light-red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "s",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aL8JTk1V",
+			"typeName": "shape"
+		},
+		{
+			"x": 247.1999969482422,
+			"y": 848.4000244140625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QO_1wW_m1lsFTIgqw8sZw",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/"
+					}
+				],
+				"color": "grey",
+				"fill": "none",
+				"dash": "draw",
+				"size": "s",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aS5pWFvV",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": "shape:NaMIa44TTzEvPpSLb22BE",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:NaMIa44TTzEvPpSLb22BE"
+			],
+			"hoveredShapeId": "shape:NaMIa44TTzEvPpSLb22BE",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 16,
+			"y": 212.60001754760742,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:B5oqYcrjbTTx8haFXTdr2",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 133.8000030517578,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Supervised"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a2endgNV",
+			"typeName": "shape"
+		},
+		{
+			"x": 29.599990844726562,
+			"y": 329.45000553131104,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:45zqrSdsXnKR9RS-tz44e",
+			"type": "text",
+			"props": {
+				"color": "light-red",
+				"size": "s",
+				"w": 127.4000015258789,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "classification"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a9x3mgrV",
+			"typeName": "shape"
+		},
+		{
+			"x": 22.399999618530273,
+			"y": 243.1999969482422,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7ccwGOSLs1SANuCBrqIfW",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2slmiQV": {
+						"id": "a2slmiQV",
+						"index": "a2slmiQV",
+						"x": -4.799991607666016,
+						"y": 220.7999725341797
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a6Q0zZDl",
+			"typeName": "shape"
+		},
+		{
+			"x": 328.8000183105469,
+			"y": 116.80000305175781,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:q8jz4woMYUz85hcvcVulL",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2sgZXyV": {
+						"id": "a2sgZXyV",
+						"index": "a2sgZXyV",
+						"x": 298.3999938964844,
+						"y": 96.80000305175781
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aPLhMQ8V",
+			"typeName": "shape"
+		},
+		{
+			"x": 26,
+			"y": 653.0500116348267,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7pshKy4PbJp0BP_npQwfX",
+			"type": "text",
+			"props": {
+				"color": "grey",
+				"size": "s",
+				"w": 1025,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Unsupervised Learning - when we have input data only"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\tclustering - dividing data into categories(grouping) - used to group high dimensional data also"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\tdimentionality reduction - reducing high dimentional data to less dimentions so that our also run fast."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\tanomaly detection - detecting a fault or a issue."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\tAssociation rule based learning - pattern between inputs like most people buy egg with milk"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\t "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aTelK2LV",
+			"typeName": "shape"
+		},
+		{
+			"x": 203.20001220703125,
+			"y": 287.05001163482666,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Vh5wbsoi4JMl9_j6eh3Ik",
+			"type": "text",
+			"props": {
+				"color": "light-red",
+				"size": "s",
+				"w": 242.60000610351562,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "clustering"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Diemensinality Reduction"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Anomaly detection"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Association"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aGcmVC8V",
+			"typeName": "shape"
+		},
+		{
+			"x": 9.600000381469727,
+			"y": 291.20001220703125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Jh8PeXSZ0r4F72W4qJ0QC",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/zUBmOgAAZj5mOgAAZkIAAAAAZjpmOgAAZjoAAAAAZjoAAAAAZjoAAAAAZj4AAAAAzUAAAAAAZjoAAAAAzUAAAAAAZkIAAAAAZjoAAAAAZjoAAAAAZjoAAAAAZjoAAAAAZjoAAAAAZj4AAAAAZjoAAAAAZjoAAAAAZjoAAAAA"
+					}
+				],
+				"color": "light-red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "s",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aAtekRTV",
+			"typeName": "shape"
+		},
+		{
+			"x": 176,
+			"y": 320,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:AeqMV7yNnaRSasFexMiXO",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/ZjoAAAAAZj4AAAAAZjpmugAAZjoAAAAAZj4AAAAAZjoAAAAAZjpmugAAZjoAAAAAZjoAAAAAZj4AAAAAzUAAAAAAZjpmugAAZjoAAAAAZjoAAAAAZjoAAAAAZj4AAAAAZjoAAAAAZjpmOgAAZj5mOgAAZj4AAAAAZjpmOgAAZjoAAAAAZjoAAAAAZjoAAAAAAABmOgAAZjoAAAAA"
+					}
+				],
+				"color": "light-red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "s",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aIidaj8V",
+			"typeName": "shape"
+		},
+		{
+			"x": 27.20000457763672,
+			"y": 508.6500177383423,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:BU8uM-Mmqf626VBuy_jWx",
+			"type": "text",
+			"props": {
+				"color": "grey",
+				"size": "s",
+				"w": 847.4000244140625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Supervised Learning - when we have input and output both to train."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "      Regression - output is numerical data(eg. age, price)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t\t\tClassification - output is categorical (eg. will rain or not, placement got or not etc) "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aQSucd5V",
+			"typeName": "shape"
+		},
+		{
+			"x": 36.000022888183594,
+			"y": 282.2500238418579,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:CX9GIr8_RPHfUTUJUWxlJ",
+			"type": "text",
+			"props": {
+				"color": "light-red",
+				"size": "s",
+				"w": 106.5999984741211,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Regression"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a8IQXb0V",
+			"typeName": "shape"
+		},
+		{
+			"x": 33.81682998740213,
+			"y": 991.6654235911526,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:NaMIa44TTzEvPpSLb22BE",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 895.5234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 2
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1. Types of Machine Learning"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Machine Learning ko "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "4 types"
+								},
+								{
+									"type": "text",
+									"text": " me divide kiya jata hai:"
+								}
+							]
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Supervised Learning"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Unsupervised Learning"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Semi-Supervised Learning"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Reinforcement Learning"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 1
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1️⃣ Supervised Learning"
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Kya hota hai?"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Isme "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "Input aur Output dono diye hote hain (Labeled Data)."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Machine Input aur Output ke beech relation seekhti hai."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Fir naye input ka output predict karti hai."
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Example"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "IQCGPAPlacement1108.5Yes956.8No"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "👉 Machine seekhegi ki kis IQ aur CGPA par placement hota hai."
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 1
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Supervised Learning ke 2 Types"
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 2
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "A) Regression"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Jab "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "Output Number (Numerical)"
+												},
+												{
+													"type": "text",
+													"text": " ho."
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Example"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "House Price"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Salary Prediction"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Temperature Prediction"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "Easy Trick"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "Regression = Number Predict Karna"
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 2
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "B) Classification"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Jab "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "Output Category"
+												},
+												{
+													"type": "text",
+													"text": " ho."
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Example"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Spam / Not Spam"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Pass / Fail"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Dog / Cat"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Placement Yes / No"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "Easy Trick"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "Classification = Category Predict Karna"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 1
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2️⃣ Unsupervised Learning"
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Kya hota hai?"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Sirf "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "Input Data hota hai."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Output (Label) nahi hota."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Machine khud data me patterns aur groups dhoondti hai."
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 2
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Unsupervised Learning ke Main Types"
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "A) Clustering"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Similar data ko ek group me rakhna."
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Example"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Customer Segmentation"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Student Grouping"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "B) Dimensionality Reduction"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Bahut saare features ko kam karna."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Extra columns hata kar important information rakhna."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Model fast aur efficient ban jata hai."
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "C) Anomaly Detection"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Normal data se alag (abnormal) data find karna."
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Example"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Credit Card Fraud"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Banking Fraud"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Manufacturing Defect Detection"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "D) Association Rule Learning"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Data me hidden relationships find karna."
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Example"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Supermarket Recommendation"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "\"Jo log Bread kharidte hain wo Butter bhi kharidte hain.\""
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 1
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3️⃣ Semi-Supervised Learning"
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Kya hota hai?"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Kuch data "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "Labeled"
+												},
+												{
+													"type": "text",
+													"text": " hota hai."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Baaki data "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "Unlabeled"
+												},
+												{
+													"type": "text",
+													"text": " hota hai."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Machine thode labels se baaki data ko samajhne ki koshish karti hai."
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Example"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Google Photos"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Sirf ek photo ko \"Papa\" label karo."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Baaki Papa wali photos machine khud identify kar leti hai."
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 1
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "4️⃣ Reinforcement Learning"
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Kya hota hai?"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Machine ke paas pehle se data nahi hota."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Machine "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "Try → Reward/Punishment → Learn"
+												},
+												{
+													"type": "text",
+													"text": " karti hai."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Har galti se improve hoti rehti hai."
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "heading",
+							"attrs": {
+								"dir": "auto",
+								"level": 3
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Example"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Self Driving Cars"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Chess"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Robot Learning"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Game Playing (AlphaGo)"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aXRwb",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 698,
+				"h": 737
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 2,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"cameraState": "idle",
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"x": 5.599999904632568,
+			"y": 336,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:XiuNHrFZpSIWK7x-p6q5w",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/Zj4AAAAAzUBmOgAAZkJmOgAAZjoAAAAAzUBmOgAAZj5mOgAAZj4AAAAAZjpmOgAAZjoAAAAAZjoAAAAAZjoAAAAAZjoAAAAAZj4AAAAAZjpmOgAAZjoAAAAAZjoAAAAAAABmPgAA"
+					}
+				],
+				"color": "light-red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "s",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aBVj0ozG",
+			"typeName": "shape"
+		},
+		{
+			"x": 86.4000015258789,
+			"y": 212.8000030517578,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:SaoOuV0CV6ThbxJrg87Ps",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2H2mEaV": {
+						"id": "a2H2mEaV",
+						"index": "a2H2mEaV",
+						"x": 184.80001068115234,
+						"y": -100.80000305175781
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aMcsqdgV",
+			"typeName": "shape"
+		},
+		{
+			"x": 184.8000030517578,
+			"y": 262.3999938964844,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:MhJYM_BWKKh0ywLhux2wP",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2zLvANl": {
+						"id": "a2zLvANl",
+						"index": "a2zLvANl",
+						"x": -1.600006103515625,
+						"y": 204
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a7Twa9gV",
+			"typeName": "shape"
+		},
+		{
+			"x": 255.1999969482422,
+			"y": 75.79999923706055,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:CWBl1x_aTs4uA9ts4rKJQ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 149,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Types of ML"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1onXYvV",
+			"typeName": "shape"
+		},
+		{
+			"x": 179.2000274658203,
+			"y": 214.99999618530273,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:XoobHqzw88FBkzaLyFcn4",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 165.8000030517578,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Unsupervised"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a3yu3EqV",
+			"typeName": "shape"
+		},
+		{
+			"x": 284.8000183105469,
+			"y": 113.5999984741211,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:WyosaG886HpeJXvS-79QX",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "s",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2LWOp7V": {
+						"id": "a2LWOp7V",
+						"index": "a2LWOp7V",
+						"x": 0.79998779296875,
+						"y": 100.80001068115234
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aNGCxJDV",
+			"typeName": "shape"
+		}
+	]
+}

@@ -21,7 +21,7 @@
 			"com.tldraw.shape.text": 4,
 			"com.tldraw.shape.bookmark": 2,
 			"com.tldraw.shape.draw": 5,
-			"com.tldraw.shape.geo": 12,
+			"com.tldraw.shape.geo": 11,
 			"com.tldraw.shape.note": 13,
 			"com.tldraw.shape.line": 5,
 			"com.tldraw.shape.frame": 1,
@@ -43,116 +43,62 @@
 			"typeName": "pointer"
 		},
 		{
-			"x": 29.29058542548933,
-			"y": 114.12938929100119,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
-			"meta": {},
-			"id": "shape:KFJA_2QoNskY88_0k-R4E",
-			"type": "text",
-			"props": {
-				"color": "black",
-				"size": "m",
-				"w": 907.0546875,
-				"font": "draw",
-				"textAlign": "start",
-				"autoSize": true,
-				"scale": 1,
-				"richText": {
-					"type": "doc",
-					"attrs": {
-						"dir": "auto"
-					},
-					"content": [
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "1st Difference : In bagging hum diff algo use kr skte hai eg : DT, KNN etc"
-								}
-							]
-						},
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "pr RF mai only DT"
-								}
-							]
-						}
-					]
-				}
-			},
-			"parentId": "page:page",
-			"index": "a2bhr",
-			"typeName": "shape"
-		},
-		{
-			"x": 34,
-			"y": 55.5,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
-			"meta": {},
-			"id": "shape:0g5x25LaNQkZSpZBiQ_Iv",
-			"type": "text",
-			"props": {
-				"color": "black",
-				"size": "l",
-				"w": 507.5234375,
-				"font": "draw",
-				"textAlign": "start",
-				"autoSize": true,
-				"scale": 1,
-				"richText": {
-					"type": "doc",
-					"attrs": {
-						"dir": "auto"
-					},
-					"content": [
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "Bagging v/s Random Forest"
-								}
-							]
-						}
-					]
-				}
-			},
-			"parentId": "page:page",
-			"index": "a1tRj",
-			"typeName": "shape"
-		},
-		{
-			"x": -19.81198552210915,
-			"y": 11.027916366018552,
-			"z": 0.6465463912046555,
+			"x": 0,
+			"y": 0,
+			"z": 1,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
 		},
 		{
-			"editingShapeId": "shape:zW1YIUGgg-P_nSGc2jQup",
+			"x": 11.5,
+			"y": 42.5,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qOOAbYplOUxcsppT00SUx",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "l",
+				"w": 390.9921875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "5 Key Understanding"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1e4U",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": "shape:ZAcFQ737DD8mnzQzlJ29g",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:zW1YIUGgg-P_nSGc2jQup"
+				"shape:ZAcFQ737DD8mnzQzlJ29g"
 			],
-			"hoveredShapeId": "shape:zW1YIUGgg-P_nSGc2jQup",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -162,26 +108,18 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"name": "",
-			"color": "#F04F88",
-			"imageUrl": "",
-			"meta": {},
-			"id": "user:XPbz6My6AJsc_gdx-_Q9T",
-			"typeName": "user"
-		},
-		{
-			"x": 36.05211947512099,
-			"y": 211.16071494482173,
+			"x": 12.5,
+			"y": 97,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
 			"meta": {},
-			"id": "shape:zW1YIUGgg-P_nSGc2jQup",
+			"id": "shape:ZAcFQ737DD8mnzQzlJ29g",
 			"type": "text",
 			"props": {
 				"color": "black",
 				"size": "m",
-				"w": 775.8671875,
+				"w": 459.640625,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -193,25 +131,32 @@
 					},
 					"content": [
 						{
-							"type": "paragraph",
+							"type": "orderedList",
 							"attrs": {
-								"dir": "auto"
+								"dir": "auto",
+								"start": 1,
+								"type": null
 							},
 							"content": [
 								{
-									"type": "text",
-									"marks": [
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
 										{
-											"type": "link",
+											"type": "paragraph",
 											"attrs": {
-												"href": "https://chatgpt.com/s/t_6a70f2d195848191a41b0d228c872050",
-												"target": "_blank",
-												"rel": "noopener noreferrer nofollow",
-												"class": null
-											}
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "How the coefficients get affected?"
+												}
+											]
 										}
-									],
-									"text": "https://chatgpt.com/s/t_6a70f2d195848191a41b0d228c872050"
+									]
 								}
 							]
 						}
@@ -219,8 +164,16 @@
 				}
 			},
 			"parentId": "page:page",
-			"index": "a3pkE",
+			"index": "a2R2n",
 			"typeName": "shape"
+		},
+		{
+			"name": "",
+			"color": "#F04F88",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:XPbz6My6AJsc_gdx-_Q9T",
+			"typeName": "user"
 		},
 		{
 			"meta": {},
@@ -255,8 +208,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 664,
-				"h": 726
+				"w": 670,
+				"h": 737
 			},
 			"insets": [
 				false,
@@ -273,9 +226,9 @@
 			"isFocused": true,
 			"devicePixelRatio": 2,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": true,
+			"isHoveringCanvas": false,
 			"openMenus": [],
-			"isChangingStyle": false,
+			"isChangingStyle": true,
 			"isReadonly": false,
 			"meta": {},
 			"duplicateProps": null,

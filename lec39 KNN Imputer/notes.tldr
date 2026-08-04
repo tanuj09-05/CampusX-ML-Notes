@@ -20,13 +20,13 @@
 			"com.tldraw.shape.group": 0,
 			"com.tldraw.shape.text": 4,
 			"com.tldraw.shape.bookmark": 2,
-			"com.tldraw.shape.draw": 5,
-			"com.tldraw.shape.geo": 12,
-			"com.tldraw.shape.note": 13,
+			"com.tldraw.shape.draw": 4,
+			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.note": 12,
 			"com.tldraw.shape.line": 5,
 			"com.tldraw.shape.frame": 1,
 			"com.tldraw.shape.arrow": 8,
-			"com.tldraw.shape.highlight": 4,
+			"com.tldraw.shape.highlight": 3,
 			"com.tldraw.shape.embed": 4,
 			"com.tldraw.shape.image": 5,
 			"com.tldraw.shape.video": 4,
@@ -43,18 +43,18 @@
 			"typeName": "pointer"
 		},
 		{
-			"x": 29.29058542548933,
-			"y": 114.12938929100119,
+			"x": 163,
+			"y": 27.30078125,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
 			"meta": {},
-			"id": "shape:KFJA_2QoNskY88_0k-R4E",
+			"id": "shape:-Kb-VXTEn-0Nd8UAaXQPJ",
 			"type": "text",
 			"props": {
 				"color": "black",
-				"size": "m",
-				"w": 907.0546875,
+				"size": "xl",
+				"w": 794.28125,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -73,19 +73,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "1st Difference : In bagging hum diff algo use kr skte hai eg : DT, KNN etc"
-								}
-							]
-						},
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "pr RF mai only DT"
+									"text": "Multivariate Imputation Technique"
 								}
 							]
 						}
@@ -93,95 +81,22 @@
 				}
 			},
 			"parentId": "page:page",
-			"index": "a2bhr",
+			"index": "a1JirzIG",
 			"typeName": "shape"
 		},
 		{
-			"x": 34,
-			"y": 55.5,
+			"x": 34.28153951519752,
+			"y": 189.24201552317763,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
 			"meta": {},
-			"id": "shape:0g5x25LaNQkZSpZBiQ_Iv",
+			"id": "shape:v4q6Z5u8DITdEMr15XOjv",
 			"type": "text",
 			"props": {
-				"color": "black",
-				"size": "l",
-				"w": 507.5234375,
-				"font": "draw",
-				"textAlign": "start",
-				"autoSize": true,
-				"scale": 1,
-				"richText": {
-					"type": "doc",
-					"attrs": {
-						"dir": "auto"
-					},
-					"content": [
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "Bagging v/s Random Forest"
-								}
-							]
-						}
-					]
-				}
-			},
-			"parentId": "page:page",
-			"index": "a1tRj",
-			"typeName": "shape"
-		},
-		{
-			"x": -19.81198552210915,
-			"y": 11.027916366018552,
-			"z": 0.6465463912046555,
-			"meta": {},
-			"id": "camera:page:page",
-			"typeName": "camera"
-		},
-		{
-			"editingShapeId": "shape:zW1YIUGgg-P_nSGc2jQup",
-			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:zW1YIUGgg-P_nSGc2jQup"
-			],
-			"hoveredShapeId": "shape:zW1YIUGgg-P_nSGc2jQup",
-			"erasingShapeIds": [],
-			"hintingShapeIds": [],
-			"focusedGroupId": null,
-			"meta": {},
-			"id": "instance_page_state:page:page",
-			"pageId": "page:page",
-			"typeName": "instance_page_state"
-		},
-		{
-			"name": "",
-			"color": "#F04F88",
-			"imageUrl": "",
-			"meta": {},
-			"id": "user:XPbz6My6AJsc_gdx-_Q9T",
-			"typeName": "user"
-		},
-		{
-			"x": 36.05211947512099,
-			"y": 211.16071494482173,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
-			"meta": {},
-			"id": "shape:zW1YIUGgg-P_nSGc2jQup",
-			"type": "text",
-			"props": {
-				"color": "black",
+				"color": "light-blue",
 				"size": "m",
-				"w": 775.8671875,
+				"w": 1074.8203125,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -202,16 +117,59 @@
 									"type": "text",
 									"marks": [
 										{
-											"type": "link",
-											"attrs": {
-												"href": "https://chatgpt.com/s/t_6a70f2d195848191a41b0d228c872050",
-												"target": "_blank",
-												"rel": "noopener noreferrer nofollow",
-												"class": null
-											}
+											"type": "bold"
 										}
 									],
-									"text": "https://chatgpt.com/s/t_6a70f2d195848191a41b0d228c872050"
+									"text": "KNN Imputer (K-Nearest Neighbors Imputation)"
+								},
+								{
+									"type": "text",
+									"text": " missing values ko fill karne ke liye "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "similar records (nearest neighbors)"
+								},
+								{
+									"type": "text",
+									"text": " ka use karta hai."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Idea ye hai:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\"Jo rows ek-dusre se milti-julti hain, unki values bhi milti-julti hongi.\""
 								}
 							]
 						}
@@ -219,7 +177,80 @@
 				}
 			},
 			"parentId": "page:page",
-			"index": "a3pkE",
+			"index": "a3HCg4uV",
+			"typeName": "shape"
+		},
+		{
+			"x": -17.129297356593085,
+			"y": 18.354687224803754,
+			"z": 0.6121648646811271,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"name": "",
+			"color": "#55B467",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:hFc_JSHGMnX-zAUVD3R3g",
+			"typeName": "user"
+		},
+		{
+			"editingShapeId": "shape:v4q6Z5u8DITdEMr15XOjv",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:v4q6Z5u8DITdEMr15XOjv"
+			],
+			"hoveredShapeId": "shape:v4q6Z5u8DITdEMr15XOjv",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 36.731859823569565,
+			"y": 130.50440623348842,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:LhybG8B43Y_VPTQ52tlJx",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "l",
+				"w": 247.4609375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "KNN Imputer"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a24DaGDV",
 			"typeName": "shape"
 		},
 		{
@@ -240,7 +271,8 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:size": "m"
+				"tldraw:size": "l",
+				"tldraw:color": "light-blue"
 			},
 			"brush": null,
 			"scribbles": [],
@@ -255,8 +287,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 664,
-				"h": 726
+				"w": 670,
+				"h": 737
 			},
 			"insets": [
 				false,

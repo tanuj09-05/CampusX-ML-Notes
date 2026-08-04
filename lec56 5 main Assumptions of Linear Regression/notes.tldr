@@ -21,7 +21,7 @@
 			"com.tldraw.shape.text": 4,
 			"com.tldraw.shape.bookmark": 2,
 			"com.tldraw.shape.draw": 5,
-			"com.tldraw.shape.geo": 12,
+			"com.tldraw.shape.geo": 11,
 			"com.tldraw.shape.note": 13,
 			"com.tldraw.shape.line": 5,
 			"com.tldraw.shape.frame": 1,
@@ -43,18 +43,18 @@
 			"typeName": "pointer"
 		},
 		{
-			"x": 29.29058542548933,
-			"y": 114.12938929100119,
+			"x": 122.53381211157934,
+			"y": 455.08366445913373,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
 			"meta": {},
-			"id": "shape:KFJA_2QoNskY88_0k-R4E",
+			"id": "shape:mCMwgDSiIqB0xYqr1oN6k",
 			"type": "text",
 			"props": {
-				"color": "black",
+				"color": "light-blue",
 				"size": "m",
-				"w": 907.0546875,
+				"w": 295.21875,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -73,19 +73,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "1st Difference : In bagging hum diff algo use kr skte hai eg : DT, KNN etc"
-								}
-							]
-						},
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "pr RF mai only DT"
+									"text": "Bacha h abhi ye lecture"
 								}
 							]
 						}
@@ -93,66 +81,32 @@
 				}
 			},
 			"parentId": "page:page",
-			"index": "a2bhr",
+			"index": "a3Avr",
 			"typeName": "shape"
 		},
 		{
-			"x": 34,
-			"y": 55.5,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
-			"meta": {},
-			"id": "shape:0g5x25LaNQkZSpZBiQ_Iv",
-			"type": "text",
-			"props": {
-				"color": "black",
-				"size": "l",
-				"w": 507.5234375,
-				"font": "draw",
-				"textAlign": "start",
-				"autoSize": true,
-				"scale": 1,
-				"richText": {
-					"type": "doc",
-					"attrs": {
-						"dir": "auto"
-					},
-					"content": [
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "Bagging v/s Random Forest"
-								}
-							]
-						}
-					]
-				}
-			},
-			"parentId": "page:page",
-			"index": "a1tRj",
-			"typeName": "shape"
-		},
-		{
-			"x": -19.81198552210915,
-			"y": 11.027916366018552,
-			"z": 0.6465463912046555,
+			"x": -2.161085468243641,
+			"y": 35.1865936845187,
+			"z": 0.5,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
 		},
 		{
-			"editingShapeId": "shape:zW1YIUGgg-P_nSGc2jQup",
+			"name": "",
+			"color": "#55B467",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:hFc_JSHGMnX-zAUVD3R3g",
+			"typeName": "user"
+		},
+		{
+			"editingShapeId": "shape:8FQemuILrPcJWx_JfM2xR",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:zW1YIUGgg-P_nSGc2jQup"
+				"shape:8FQemuILrPcJWx_JfM2xR"
 			],
-			"hoveredShapeId": "shape:zW1YIUGgg-P_nSGc2jQup",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -162,26 +116,18 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"name": "",
-			"color": "#F04F88",
-			"imageUrl": "",
-			"meta": {},
-			"id": "user:XPbz6My6AJsc_gdx-_Q9T",
-			"typeName": "user"
-		},
-		{
-			"x": 36.05211947512099,
-			"y": 211.16071494482173,
+			"x": 10.161085468243641,
+			"y": 501.8134063154813,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
 			"meta": {},
-			"id": "shape:zW1YIUGgg-P_nSGc2jQup",
+			"id": "shape:8FQemuILrPcJWx_JfM2xR",
 			"type": "text",
 			"props": {
 				"color": "black",
 				"size": "m",
-				"w": 775.8671875,
+				"w": 1044.4296875,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -204,14 +150,14 @@
 										{
 											"type": "link",
 											"attrs": {
-												"href": "https://chatgpt.com/s/t_6a70f2d195848191a41b0d228c872050",
+												"href": "https://youtu.be/EmSNAtcHLm8?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&t=339",
 												"target": "_blank",
 												"rel": "noopener noreferrer nofollow",
 												"class": null
 											}
 										}
 									],
-									"text": "https://chatgpt.com/s/t_6a70f2d195848191a41b0d228c872050"
+									"text": "https://youtu.be/EmSNAtcHLm8?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&t=339"
 								}
 							]
 						}
@@ -219,7 +165,139 @@
 				}
 			},
 			"parentId": "page:page",
-			"index": "a3pkE",
+			"index": "a47cf",
+			"typeName": "shape"
+		},
+		{
+			"x": 10.5,
+			"y": 39,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:MnNjbYYltpfa6JqiU3ojN",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 939.7421875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "5 main Assumptions of Linear Regression"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1rY2",
+			"typeName": "shape"
+		},
+		{
+			"x": 11.04316284868511,
+			"y": 130.91757500567655,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:sZvNTRwBxsOzVSGWrCE4H",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 599.3984375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1. Linear Relationship between input and output"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2. No Multicollinearity"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3. Normality of Residual"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "4. Homoscedasticity"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "5. No Autocorrelation of Errors"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a2OLX",
 			"typeName": "shape"
 		},
 		{
@@ -239,9 +317,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:size": "m"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -255,8 +331,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 664,
-				"h": 726
+				"w": 458,
+				"h": 737
 			},
 			"insets": [
 				false,

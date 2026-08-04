@@ -21,7 +21,7 @@
 			"com.tldraw.shape.text": 4,
 			"com.tldraw.shape.bookmark": 2,
 			"com.tldraw.shape.draw": 5,
-			"com.tldraw.shape.geo": 12,
+			"com.tldraw.shape.geo": 11,
 			"com.tldraw.shape.note": 13,
 			"com.tldraw.shape.line": 5,
 			"com.tldraw.shape.frame": 1,
@@ -43,116 +43,20 @@
 			"typeName": "pointer"
 		},
 		{
-			"x": 29.29058542548933,
-			"y": 114.12938929100119,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
-			"meta": {},
-			"id": "shape:KFJA_2QoNskY88_0k-R4E",
-			"type": "text",
-			"props": {
-				"color": "black",
-				"size": "m",
-				"w": 907.0546875,
-				"font": "draw",
-				"textAlign": "start",
-				"autoSize": true,
-				"scale": 1,
-				"richText": {
-					"type": "doc",
-					"attrs": {
-						"dir": "auto"
-					},
-					"content": [
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "1st Difference : In bagging hum diff algo use kr skte hai eg : DT, KNN etc"
-								}
-							]
-						},
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "pr RF mai only DT"
-								}
-							]
-						}
-					]
-				}
-			},
-			"parentId": "page:page",
-			"index": "a2bhr",
-			"typeName": "shape"
-		},
-		{
-			"x": 34,
-			"y": 55.5,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
-			"meta": {},
-			"id": "shape:0g5x25LaNQkZSpZBiQ_Iv",
-			"type": "text",
-			"props": {
-				"color": "black",
-				"size": "l",
-				"w": 507.5234375,
-				"font": "draw",
-				"textAlign": "start",
-				"autoSize": true,
-				"scale": 1,
-				"richText": {
-					"type": "doc",
-					"attrs": {
-						"dir": "auto"
-					},
-					"content": [
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "Bagging v/s Random Forest"
-								}
-							]
-						}
-					]
-				}
-			},
-			"parentId": "page:page",
-			"index": "a1tRj",
-			"typeName": "shape"
-		},
-		{
-			"x": -19.81198552210915,
-			"y": 11.027916366018552,
-			"z": 0.6465463912046555,
+			"x": 0,
+			"y": 0,
+			"z": 1,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
 		},
 		{
-			"editingShapeId": "shape:zW1YIUGgg-P_nSGc2jQup",
+			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:zW1YIUGgg-P_nSGc2jQup"
+				"shape:hDB2pctJzXlni6LdsW7X-"
 			],
-			"hoveredShapeId": "shape:zW1YIUGgg-P_nSGc2jQup",
+			"hoveredShapeId": "shape:hDB2pctJzXlni6LdsW7X-",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -160,6 +64,38 @@
 			"id": "instance_page_state:page:page",
 			"pageId": "page:page",
 			"typeName": "instance_page_state"
+		},
+		{
+			"x": 43.5,
+			"y": 114.5,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:OFKLXJdLEWpbB3Sp1SNgi",
+			"type": "bookmark",
+			"props": {
+				"url": "https://chatgpt.com/s/t_6a63cd9b988c81919b4a21fa63eb5511",
+				"w": 300,
+				"h": 320,
+				"assetId": "asset:596284118"
+			},
+			"parentId": "page:page",
+			"index": "a2Vzs",
+			"typeName": "shape"
+		},
+		{
+			"id": "asset:596284118",
+			"typeName": "asset",
+			"type": "bookmark",
+			"props": {
+				"src": "https://chatgpt.com/s/t_6a63cd9b988c81919b4a21fa63eb5511",
+				"description": "Here's a chat someone thought you'd want to see.",
+				"image": "https://ogimg.chatgpt.com/?postId=t_6a63cd9b988c81919b4a21fa63eb5511",
+				"favicon": "https://chatgpt.com/cdn/assets/favicon-180x180-od45eci6.webp",
+				"title": "Check out this chat"
+			},
+			"meta": {}
 		},
 		{
 			"name": "",
@@ -170,18 +106,18 @@
 			"typeName": "user"
 		},
 		{
-			"x": 36.05211947512099,
-			"y": 211.16071494482173,
+			"x": 39,
+			"y": 60,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
 			"meta": {},
-			"id": "shape:zW1YIUGgg-P_nSGc2jQup",
+			"id": "shape:hDB2pctJzXlni6LdsW7X-",
 			"type": "text",
 			"props": {
 				"color": "black",
 				"size": "m",
-				"w": 775.8671875,
+				"w": 168.6953125,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -200,18 +136,7 @@
 							"content": [
 								{
 									"type": "text",
-									"marks": [
-										{
-											"type": "link",
-											"attrs": {
-												"href": "https://chatgpt.com/s/t_6a70f2d195848191a41b0d228c872050",
-												"target": "_blank",
-												"rel": "noopener noreferrer nofollow",
-												"class": null
-											}
-										}
-									],
-									"text": "https://chatgpt.com/s/t_6a70f2d195848191a41b0d228c872050"
+									"text": "What is API ?"
 								}
 							]
 						}
@@ -219,7 +144,7 @@
 				}
 			},
 			"parentId": "page:page",
-			"index": "a3pkE",
+			"index": "a13Mb",
 			"typeName": "shape"
 		},
 		{
@@ -239,9 +164,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:size": "m"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -255,8 +178,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 664,
-				"h": 726
+				"w": 671,
+				"h": 738
 			},
 			"insets": [
 				false,

@@ -21,7 +21,7 @@
 			"com.tldraw.shape.text": 4,
 			"com.tldraw.shape.bookmark": 2,
 			"com.tldraw.shape.draw": 5,
-			"com.tldraw.shape.geo": 12,
+			"com.tldraw.shape.geo": 11,
 			"com.tldraw.shape.note": 13,
 			"com.tldraw.shape.line": 5,
 			"com.tldraw.shape.frame": 1,
@@ -43,72 +43,18 @@
 			"typeName": "pointer"
 		},
 		{
-			"x": 29.29058542548933,
-			"y": 114.12938929100119,
+			"x": 17,
+			"y": 47.5,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
 			"meta": {},
-			"id": "shape:KFJA_2QoNskY88_0k-R4E",
-			"type": "text",
-			"props": {
-				"color": "black",
-				"size": "m",
-				"w": 907.0546875,
-				"font": "draw",
-				"textAlign": "start",
-				"autoSize": true,
-				"scale": 1,
-				"richText": {
-					"type": "doc",
-					"attrs": {
-						"dir": "auto"
-					},
-					"content": [
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "1st Difference : In bagging hum diff algo use kr skte hai eg : DT, KNN etc"
-								}
-							]
-						},
-						{
-							"type": "paragraph",
-							"attrs": {
-								"dir": "auto"
-							},
-							"content": [
-								{
-									"type": "text",
-									"text": "pr RF mai only DT"
-								}
-							]
-						}
-					]
-				}
-			},
-			"parentId": "page:page",
-			"index": "a2bhr",
-			"typeName": "shape"
-		},
-		{
-			"x": 34,
-			"y": 55.5,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
-			"meta": {},
-			"id": "shape:0g5x25LaNQkZSpZBiQ_Iv",
+			"id": "shape:P98jfyu9CTKMEY9JtYhfI",
 			"type": "text",
 			"props": {
 				"color": "black",
 				"size": "l",
-				"w": 507.5234375,
+				"w": 320.6875,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -127,7 +73,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "Bagging v/s Random Forest"
+									"text": "Lasso Regression"
 								}
 							]
 						}
@@ -135,24 +81,24 @@
 				}
 			},
 			"parentId": "page:page",
-			"index": "a1tRj",
+			"index": "a1M0A",
 			"typeName": "shape"
 		},
 		{
-			"x": -19.81198552210915,
-			"y": 11.027916366018552,
-			"z": 0.6465463912046555,
+			"x": -16.30519025885692,
+			"y": -10.067546653541067,
+			"z": 0.939264996278342,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
 		},
 		{
-			"editingShapeId": "shape:zW1YIUGgg-P_nSGc2jQup",
+			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:zW1YIUGgg-P_nSGc2jQup"
+				"shape:YqMbchby-X8THXCiuFb5Y"
 			],
-			"hoveredShapeId": "shape:zW1YIUGgg-P_nSGc2jQup",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -170,18 +116,18 @@
 			"typeName": "user"
 		},
 		{
-			"x": 36.05211947512099,
-			"y": 211.16071494482173,
+			"x": 20.031508192419984,
+			"y": 96.80745539320752,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
 			"meta": {},
-			"id": "shape:zW1YIUGgg-P_nSGc2jQup",
+			"id": "shape:YqMbchby-X8THXCiuFb5Y",
 			"type": "text",
 			"props": {
-				"color": "black",
+				"color": "blue",
 				"size": "m",
-				"w": 775.8671875,
+				"w": 413.8515625,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -200,18 +146,7 @@
 							"content": [
 								{
 									"type": "text",
-									"marks": [
-										{
-											"type": "link",
-											"attrs": {
-												"href": "https://chatgpt.com/s/t_6a70f2d195848191a41b0d228c872050",
-												"target": "_blank",
-												"rel": "noopener noreferrer nofollow",
-												"class": null
-											}
-										}
-									],
-									"text": "https://chatgpt.com/s/t_6a70f2d195848191a41b0d228c872050"
+									"text": "Also known as L1 regularization. "
 								}
 							]
 						}
@@ -219,7 +154,7 @@
 				}
 			},
 			"parentId": "page:page",
-			"index": "a3pkE",
+			"index": "a2sjA",
 			"typeName": "shape"
 		},
 		{
@@ -240,12 +175,13 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:size": "m"
+				"tldraw:size": "m",
+				"tldraw:color": "blue"
 			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "default",
+				"type": "move",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -255,8 +191,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 664,
-				"h": 726
+				"w": 670,
+				"h": 737
 			},
 			"insets": [
 				false,

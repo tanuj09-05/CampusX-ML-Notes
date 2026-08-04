@@ -1,0 +1,1977 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 5,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 26,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.user": 1,
+			"com.tldraw.asset.image": 6,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 4,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 5,
+			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.note": 13,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 8,
+			"com.tldraw.shape.highlight": 4,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 4,
+			"com.tldraw.binding.arrow": 1
+		}
+	},
+	"records": [
+		{
+			"x": 148.04519818496064,
+			"y": -30.148461810923493,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:95Ru-IVktYRjn83XbnXPy",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 275.203125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1. Supervised Learning"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a3iPhN5V",
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"lastActivityTimestamp": 0,
+			"meta": {},
+			"id": "pointer:pointer",
+			"typeName": "pointer"
+		},
+		{
+			"x": 825.5158475557107,
+			"y": 490.2289663866426,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:1FYn5aKKWY7Zu4LZtwf6U",
+			"type": "geo",
+			"props": {
+				"w": 163.61827013964592,
+				"h": 86.86949394012129,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aJ1JXaUG",
+			"typeName": "shape"
+		},
+		{
+			"x": 378.22203079203683,
+			"y": 433.3041518302342,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5KWtdFtGX235ZljoyDCHG",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a237ZQkV": {
+						"id": "a237ZQkV",
+						"index": "a237ZQkV",
+						"x": 828.0385009782328,
+						"y": 1.6299970491697877
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aMfO7FMV",
+			"typeName": "shape"
+		},
+		{
+			"x": 133.11781014271412,
+			"y": 197.47364944538484,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:isO-_-uDPmUSrW5Rjrlwq",
+			"type": "text",
+			"props": {
+				"color": "green",
+				"size": "s",
+				"w": 513.4453125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Uses "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "small labeled data + large unlabeled data"
+												},
+												{
+													"type": "text",
+													"text": "."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Useful when labeling data is expensive."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Example: Medical image classification"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a8jGpu3V",
+			"typeName": "shape"
+		},
+		{
+			"x": 1097.0884402617207,
+			"y": 491.91575267674204,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:BgDaO3h59NL24sgClQvBW",
+			"type": "geo",
+			"props": {
+				"w": 213.3784656975795,
+				"h": 65.78466531387824,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aKEiBA1V",
+			"typeName": "shape"
+		},
+		{
+			"x": -42.02990151031736,
+			"y": -236.83884988526603,
+			"z": 0.7018304610492999,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 894.1160968542627,
+			"y": 432.4891533056494,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PBPUV13iQo90JuQiLmDeA",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a26IcFqV": {
+						"id": "a26IcFqV",
+						"index": "a26IcFqV",
+						"x": 0,
+						"y": 49.71490999967739
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aORwXa6V",
+			"typeName": "shape"
+		},
+		{
+			"x": 1204.6305347211,
+			"y": 431.6741547810645,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QGIaZMv3n4xniuuKLhdqD",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a223jSFV": {
+						"id": "a223jSFV",
+						"index": "a223jSFV",
+						"x": 1.6299970491697877,
+						"y": 58.67989377011099
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aPYe5v0V",
+			"typeName": "shape"
+		},
+		{
+			"x": 139.48467631917933,
+			"y": 648.6429285849683,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:fl0l7TH7nbl0JfjHIt9zM",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 599.0546875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Simple Linear Regression :"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aRH8G2zG",
+			"typeName": "shape"
+		},
+		{
+			"name": "",
+			"color": "#55B467",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:hFc_JSHGMnX-zAUVD3R3g",
+			"typeName": "user"
+		},
+		{
+			"x": 1109.7393374374665,
+			"y": 506.078687148532,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:sORYmm5olw60-4qRjEs7j",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 184.390625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Regularization"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aGvNDcoV",
+			"typeName": "shape"
+		},
+		{
+			"x": 605.3902366977336,
+			"y": 320.7069442316488,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:AmxOUCXKTXDui3BhkSEHV",
+			"type": "geo",
+			"props": {
+				"w": 168.67862900994407,
+				"h": 82.65252821487263,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aCxjpKtV",
+			"typeName": "shape"
+		},
+		{
+			"x": 727.4670101953201,
+			"y": 162.30076764984167,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:0zNoun0XXrgRwEpPQakQw",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 329.9921875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.0077858453635113,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "4. Reinforcement Learning"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a9Axpc6V",
+			"typeName": "shape"
+		},
+		{
+			"x": 712.7420716465722,
+			"y": -0.02533543367022162,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:zLLrNvYzia-wRtQqIAhXo",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "s",
+				"w": 468.3515625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Model trains on "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "unlabeled data"
+												},
+												{
+													"type": "text",
+													"text": "."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Used to find "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "hidden patterns"
+												},
+												{
+													"type": "text",
+													"text": " in data."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Examples: Customer segmentation, clustering."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Types:"
+												}
+											]
+										},
+										{
+											"type": "bulletList",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "Clustering"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "Dimensionality Reduction"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a6HQnecV",
+			"typeName": "shape"
+		},
+		{
+			"x": 332.130857701624,
+			"y": 487.6987869514935,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QfVljxB965XmcUtVaLVaR",
+			"type": "geo",
+			"props": {
+				"w": 117.23164716191116,
+				"h": 83.49592135992236,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aHzvIaiG",
+			"typeName": "shape"
+		},
+		{
+			"x": 530.3045772479561,
+			"y": -99.89139952422175,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kODd8udkiEriAmESu-M4x",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 274.375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Types of ML"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a2SKxeZV",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": "shape:igocYjbLuH5uWhb-wb5-d",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:igocYjbLuH5uWhb-wb5-d"
+			],
+			"hoveredShapeId": "shape:igocYjbLuH5uWhb-wb5-d",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 259.47807948772095,
+			"y": 834.9828114429137,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QRqkUnQkiUs9qP4MsZHws",
+			"type": "geo",
+			"props": {
+				"w": 119.9589896016542,
+				"h": 35.69027789801282,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "l",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aTlpRljV",
+			"typeName": "shape"
+		},
+		{
+			"x": 135.44130992026274,
+			"y": 707.0490931159106,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:igocYjbLuH5uWhb-wb5-d",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 1575.3984375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "It is a supervised machine learning algorithm used to predict a "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "continuous numerical value"
+								},
+								{
+									"type": "text",
+									"text": " using "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "one independent variable "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "(feature)"
+								},
+								{
+									"type": "text",
+									"text": "."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "Equation:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                 y=mx+c"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Where:"
+								}
+							]
+						},
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "y"
+												},
+												{
+													"type": "text",
+													"text": " = Dependent Variable (Output)"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "x"
+												},
+												{
+													"type": "text",
+													"text": " = Independent Variable (Input)"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "m"
+												},
+												{
+													"type": "text",
+													"text": " = Slope (Coefficient)"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "c"
+												},
+												{
+													"type": "text",
+													"text": " = Intercept (offset)"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aSt8z1mG",
+			"typeName": "shape"
+		},
+		{
+			"x": 618.8845270185292,
+			"y": 324.91534543809064,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:fk-lkylSuSrOmWKSHnbg7",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 137.921875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Linear"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Regression"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBbzfpSl",
+			"typeName": "shape"
+		},
+		{
+			"x": 625.166583741254,
+			"y": 437.37914445315863,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Gd3CApMCKR-qevGzHr3kN",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a26y2FQV": {
+						"id": "a26y2FQV",
+						"index": "a26y2FQV",
+						"x": -1.1368683772161603e-13,
+						"y": 46.45491590133793
+					},
+					"a1dRr33G": {
+						"id": "a1dRr33G",
+						"index": "a1dRr33G",
+						"x": -5.684341886080802e-14,
+						"y": 20.782462376914282
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aNXPNQXV",
+			"typeName": "shape"
+		},
+		{
+			"x": 677.07865402696,
+			"y": 405.8896518816705,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:AU4YA4QRTS-VIj5a8OXUa",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2eFUCFl": {
+						"id": "a2eFUCFl",
+						"index": "a2eFUCFl",
+						"x": 0.8433931450497312,
+						"y": 28.67536693169052
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aLzRjmMG",
+			"typeName": "shape"
+		},
+		{
+			"x": 842.383710456705,
+			"y": 499.3315419881343,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:hwS9vaicukrVTZjefSN7w",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 134.2265625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Polynomial"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "LR"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aFB16fTV",
+			"typeName": "shape"
+		},
+		{
+			"x": 130.43377324443296,
+			"y": 1.7397330547493652,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:UJxC37HoGzd_xcIwpxd69",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "s",
+				"w": 571.609375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Model trains on "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "labeled data"
+												},
+												{
+													"type": "text",
+													"text": " (input + output available)."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Used for "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "prediction"
+												},
+												{
+													"type": "text",
+													"text": " tasks."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Examples: House price prediction, spam detection."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Types:"
+												}
+											]
+										},
+										{
+											"type": "bulletList",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "Regression"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "Classification"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a4BkrcZV",
+			"typeName": "shape"
+		},
+		{
+			"x": 164,
+			"y": 227,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:JuCJhww5aREU8V73x3TKy",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 8,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1aGoJqV",
+			"typeName": "shape"
+		},
+		{
+			"x": 152.02753782298186,
+			"y": 164.76725386900696,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:2WzlR3lsQ4zgxY9XF9aUD",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 349.3671875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3. Semi-Supervised Learning"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a7sCDLUG",
+			"typeName": "shape"
+		},
+		{
+			"x": 576.714869766043,
+			"y": 485.1686075163443,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:I0Ck1egauSlECKOzXLaGP",
+			"type": "geo",
+			"props": {
+				"w": 141.69004836835313,
+				"h": 85.18270765002183,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aIfpV2fV",
+			"typeName": "shape"
+		},
+		{
+			"x": 728.3631510346194,
+			"y": -37.48461610255211,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:zFxUiFKs-7BKF8cj3n7XE",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 313.625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2. Unsupervised Learning"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a5jY8K9V",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"x": 348.15532745756866,
+			"y": 494.2711831178358,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PYYJpJjg1UhhZ85pQt5JY",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 80.65625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Simple"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "LR"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aDUvkQoG",
+			"typeName": "shape"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 625,
+				"h": 737
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 2,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"cameraState": "idle",
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"x": 375.7770352182822,
+			"y": 432.4891533056494,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5ovEWSoLntjOawzZ8jHR4",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2t3UGCl": {
+						"id": "a2t3UGCl",
+						"index": "a2t3UGCl",
+						"x": 0.8149985245848939,
+						"y": 55.41989967177153
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aQ4QUHBl",
+			"typeName": "shape"
+		},
+		{
+			"x": 708.4100542994678,
+			"y": 195.261810164575,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:T8s1ibXzX3s3C6x8KvZ7I",
+			"type": "text",
+			"props": {
+				"color": "light-violet",
+				"size": "s",
+				"w": 479.2109375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.0077858453635113,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Agent learns through "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "bold"
+														}
+													],
+													"text": "rewards and penalties"
+												},
+												{
+													"type": "text",
+													"text": "."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Goal is to maximize reward."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Examples: Self-driving cars, game-playing AI."
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aACQczYG",
+			"typeName": "shape"
+		},
+		{
+			"x": 590.2091600868386,
+			"y": 492.58439682773644,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:4mdNOkhsIxtaOZ48m53lm",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 103.34375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Multiple"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "LR"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aEiaWXKV",
+			"typeName": "shape"
+		}
+	]
+}
