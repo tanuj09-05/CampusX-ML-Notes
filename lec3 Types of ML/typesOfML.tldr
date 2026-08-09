@@ -21,7 +21,7 @@
 			"com.tldraw.shape.text": 4,
 			"com.tldraw.shape.bookmark": 2,
 			"com.tldraw.shape.draw": 5,
-			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.geo": 12,
 			"com.tldraw.shape.note": 13,
 			"com.tldraw.shape.line": 5,
 			"com.tldraw.shape.frame": 1,
@@ -231,40 +231,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 833.2454406312683,
-			"y": 955.3560373176056,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
-			"meta": {},
-			"id": "shape:2subIzV9kiDLe0BAGSxPs",
-			"type": "draw",
-			"props": {
-				"segments": [
-					{
-						"type": "free",
-						"path": "AAAAAAAAAAAAAAA/TUAAAAAAdkIAAAAAcUIAAAAATUAAAAAAdkIAAAAATUAAAAAATUAAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAAABSvAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAATUAAAAAASDwAAAAATUAAAAAAUjwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAATUAAAAAAUjwAAAAASDwAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAAAABIvAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDxSvAAAUjwAAAAASDwAAAAATUAAAAAAUjwAAAAAUjwAAAAAAABIvAAASDwAAAAAUjwAAAAASDwAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAAAABIPAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDxSPAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUBIPAAASDwAAAAAUjwAAAAAUjwAAAAA"
-					}
-				],
-				"color": "light-green",
-				"fill": "none",
-				"dash": "draw",
-				"size": "s",
-				"isComplete": true,
-				"isClosed": false,
-				"isPen": false,
-				"scale": 1,
-				"scaleX": 1,
-				"scaleY": 1
-			},
-			"parentId": "page:page",
-			"index": "aWH88Y6V",
-			"typeName": "shape"
-		},
-		{
-			"x": 36.23834498043995,
-			"y": -3149.997870994837,
-			"z": 0.44250835165610747,
+			"x": 46.70527801156932,
+			"y": 3.015881805472249,
+			"z": 0.45531951880932064,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -309,8 +278,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 38.6342123060522,
-			"y": 928.1525342434213,
+			"x": 8.984703681201061,
+			"y": 771.1199515266173,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -351,8 +320,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 23.58069954967099,
-			"y": 829.229347871758,
+			"x": 13.697530008053867,
+			"y": 735.8883022009305,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -362,7 +331,7 @@
 			"props": {
 				"color": "grey",
 				"size": "s",
-				"w": 1780.2000732421875,
+				"w": 1732.53125,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -381,7 +350,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "Semisuperwised - taking some of man power and rest is done my ML(eg. Google photos segregating each unique face and we just have to put label on that face like mother , father etc)"
+									"text": "Semisupervised - taking some of man power and rest is done my ML(eg. Google photos segregating each unique face and we just have to put label on that face like mother , father etc)"
 								}
 							]
 						},
@@ -492,12 +461,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:NaMIa44TTzEvPpSLb22BE",
+			"editingShapeId": "shape:ErIfOw9b2GGI_8iKYp78H",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:NaMIa44TTzEvPpSLb22BE"
+				"shape:ErIfOw9b2GGI_8iKYp78H"
 			],
-			"hoveredShapeId": "shape:NaMIa44TTzEvPpSLb22BE",
+			"hoveredShapeId": "shape:ErIfOw9b2GGI_8iKYp78H",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -659,8 +628,16 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 26,
-			"y": 653.0500116348267,
+			"name": "",
+			"color": "#F04F88",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:XPbz6My6AJsc_gdx-_Q9T",
+			"typeName": "user"
+		},
+		{
+			"x": 19.411220305588586,
+			"y": 593.7509943851246,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -2680,7 +2657,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 698,
+				"w": 759,
 				"h": 737
 			},
 			"insets": [
