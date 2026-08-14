@@ -20,13 +20,13 @@
 			"com.tldraw.shape.group": 0,
 			"com.tldraw.shape.text": 4,
 			"com.tldraw.shape.bookmark": 2,
-			"com.tldraw.shape.draw": 5,
+			"com.tldraw.shape.draw": 4,
 			"com.tldraw.shape.geo": 11,
-			"com.tldraw.shape.note": 13,
+			"com.tldraw.shape.note": 12,
 			"com.tldraw.shape.line": 5,
 			"com.tldraw.shape.frame": 1,
 			"com.tldraw.shape.arrow": 8,
-			"com.tldraw.shape.highlight": 4,
+			"com.tldraw.shape.highlight": 3,
 			"com.tldraw.shape.embed": 4,
 			"com.tldraw.shape.image": 5,
 			"com.tldraw.shape.video": 4,
@@ -203,9 +203,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -6.666070996771246,
-			"y": 15.521852852587541,
-			"z": 0.72813695467597,
+			"x": 1079.5471885464406,
+			"y": 216.15168011305408,
+			"z": 0.2628849987454369,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -362,14 +362,6 @@
 			"typeName": "shape"
 		},
 		{
-			"name": "",
-			"color": "#55B467",
-			"imageUrl": "",
-			"meta": {},
-			"id": "user:hFc_JSHGMnX-zAUVD3R3g",
-			"typeName": "user"
-		},
-		{
 			"x": 563.4506860572475,
 			"y": 679.6712690156905,
 			"rotation": 0,
@@ -495,9 +487,7 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:kQteKbEwU4_ODBwuCnKHi"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -860,14 +850,6 @@
 			"typeName": "shape"
 		},
 		{
-			"name": "",
-			"color": "#F04F88",
-			"imageUrl": "",
-			"meta": {},
-			"id": "user:XPbz6My6AJsc_gdx-_Q9T",
-			"typeName": "user"
-		},
-		{
 			"x": 973.2894400442538,
 			"y": 979.9282426317027,
 			"rotation": 0,
@@ -1020,7 +1002,7 @@
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "move",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -1030,8 +1012,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 670,
-				"h": 495
+				"w": 941,
+				"h": 738
 			},
 			"insets": [
 				false,
@@ -1048,7 +1030,7 @@
 			"isFocused": true,
 			"devicePixelRatio": 2,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": true,
+			"isHoveringCanvas": null,
 			"openMenus": [],
 			"isChangingStyle": false,
 			"isReadonly": false,
@@ -1378,8 +1360,8 @@
 			"meta": {}
 		},
 		{
-			"x": 86.26142578258236,
-			"y": 285.136231586639,
+			"x": 388.40238784637813,
+			"y": 227.4547751926416,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,

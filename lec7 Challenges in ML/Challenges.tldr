@@ -20,13 +20,13 @@
 			"com.tldraw.shape.group": 0,
 			"com.tldraw.shape.text": 4,
 			"com.tldraw.shape.bookmark": 2,
-			"com.tldraw.shape.draw": 4,
-			"com.tldraw.shape.geo": 11,
-			"com.tldraw.shape.note": 12,
+			"com.tldraw.shape.draw": 5,
+			"com.tldraw.shape.geo": 12,
+			"com.tldraw.shape.note": 13,
 			"com.tldraw.shape.line": 5,
 			"com.tldraw.shape.frame": 1,
 			"com.tldraw.shape.arrow": 8,
-			"com.tldraw.shape.highlight": 3,
+			"com.tldraw.shape.highlight": 4,
 			"com.tldraw.shape.embed": 4,
 			"com.tldraw.shape.image": 5,
 			"com.tldraw.shape.video": 4,
@@ -51,9 +51,9 @@
 			"typeName": "user"
 		},
 		{
-			"x": -65.12486143294788,
-			"y": 383.5273463232713,
-			"z": 0.5383800243807958,
+			"x": -49.891314859792814,
+			"y": 355.78596775882244,
+			"z": 0.4762214262162221,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -62,7 +62,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:UR1OPfJgSAekkbjiTOagN"
+				"shape:z97sOJxmLUOqADBxaWiFF"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -74,8 +74,8 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 84,
-			"y": 71.00000381469727,
+			"x": 150.1457008565966,
+			"y": 68.79959437246839,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -84,8 +84,8 @@
 			"type": "text",
 			"props": {
 				"color": "black",
-				"size": "m",
-				"w": 216.1999969482422,
+				"size": "l",
+				"w": 325.46875,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -116,6 +116,14 @@
 			"typeName": "shape"
 		},
 		{
+			"name": "",
+			"color": "#F04F88",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:XPbz6My6AJsc_gdx-_Q9T",
+			"typeName": "user"
+		},
+		{
 			"meta": {},
 			"id": "page:page",
 			"name": "Page 1",
@@ -132,11 +140,13 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {},
+			"stylesForNextShape": {
+				"tldraw:size": "l"
+			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "move",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -146,8 +156,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 839.2000122070312,
-				"h": 702.4000244140625
+				"w": 759,
+				"h": 737
 			},
 			"insets": [
 				false,
@@ -162,11 +172,11 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 1.25,
+			"devicePixelRatio": 2,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": true,
+			"isHoveringCanvas": false,
 			"openMenus": [],
-			"isChangingStyle": false,
+			"isChangingStyle": true,
 			"isReadonly": false,
 			"meta": {},
 			"duplicateProps": null,

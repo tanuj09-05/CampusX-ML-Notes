@@ -21,7 +21,7 @@
 			"com.tldraw.shape.text": 4,
 			"com.tldraw.shape.bookmark": 2,
 			"com.tldraw.shape.draw": 5,
-			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.geo": 12,
 			"com.tldraw.shape.note": 13,
 			"com.tldraw.shape.line": 5,
 			"com.tldraw.shape.frame": 1,
@@ -43,8 +43,8 @@
 			"typeName": "pointer"
 		},
 		{
-			"x": 0,
-			"y": 0,
+			"x": 22.25,
+			"y": 121.25,
 			"z": 1,
 			"meta": {},
 			"id": "camera:page:page",
@@ -53,10 +53,8 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:hDB2pctJzXlni6LdsW7X-"
-			],
-			"hoveredShapeId": "shape:hDB2pctJzXlni6LdsW7X-",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -178,8 +176,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 671,
-				"h": 738
+				"w": 670,
+				"h": 737
 			},
 			"insets": [
 				false,
